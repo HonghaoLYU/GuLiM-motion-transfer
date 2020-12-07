@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to our Project: MHGM motion transfer
+
+[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 You can use the [editor on GitHub](https://github.com/HonghaoLYU/MHGM-motion-transfer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
