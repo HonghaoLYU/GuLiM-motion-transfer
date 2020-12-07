@@ -1,8 +1,7 @@
 ## Welcome to our Project: MHGM motion transfer
-
-[Image](https://octodex.github.com/images/yaktocat.png)
+<p>
 <img src="https://honghaolyu.github.io/assets/images/posts/3-1.gif" alt="Sim demo, SmartGripper"/>
-
+</p>
 You can use the [editor on GitHub](https://github.com/HonghaoLYU/MHGM-motion-transfer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
