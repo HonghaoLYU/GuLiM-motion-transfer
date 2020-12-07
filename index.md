@@ -1,6 +1,7 @@
 ## Welcome to our Project: MHGM motion transfer
 
 [Image](https://octodex.github.com/images/yaktocat.png)
+<img src="https://honghaolyu.github.io/assets/images/posts/3-1.gif" alt="Sim demo, SmartGripper"/>
 
 You can use the [editor on GitHub](https://github.com/HonghaoLYU/MHGM-motion-transfer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
