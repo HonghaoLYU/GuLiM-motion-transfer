@@ -1,7 +1,7 @@
 ## Welcome to our Project: GaLiM motion transfer
 <p>
-<img src="https://fsie_robotics/GaLiM-motion-transfer/assets/images/双臂遥操作9s-2M.gif" alt="demo1"/>
-<img src="https://fsie_robotics/GaLiM-motion-transfer/assets/images/双臂垒木块V2-2M.gif" alt="demo1"/>
+<img src="https://fsie_robotics/GaLiM-motion-transfer/assets/images/teleop-dualarm.gif" alt="demo1"/>
+<!-- <img src="https://fsie_robotics/GaLiM-motion-transfer/assets/images/teleop-grasp.gif" alt="demo1"/> -->
 </p>
 You can use the [editor on GitHub](https://github.com/HonghaoLYU/MHGM-motion-transfer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
