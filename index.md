@@ -20,23 +20,82 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <table>
 <tr>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/ABP1T1_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
 <td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/AB-R-P1-batch (2).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+</tr>
+<tr>
+<td> DMM </td>
+<td> GaLiM </td>
 </tr>
 </table>
 
 ## From region A to region C.
 
+<table>
+<tr>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/AC-P1-batch (2).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/AC-R-P1-batch (1).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+</tr>
+<tr>
+<td> DMM </td>
+<td> GaLiM </td>
+</tr>
+</table>
+
 ## From region A to region D.
 
+<table>
+<tr>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/ADP1T2_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/ADRP1T4_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+</tr>
+<tr>
+<td> DMM </td>
+<td> GaLiM </td>
+</tr>
+</table>
 
 # Task2:
 ### Grab a block and place it at the specific angle.
 
 ## Place at 30 degrees.
 
+<table>
+<tr>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/degree30-P1-batch (2).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/degree30-R-P1-batch (2).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+</tr>
+<tr>
+<td> DMM </td>
+<td> GaLiM </td>
+</tr>
+</table>
+
 ## Place at 60 degrees.
 
+<table>
+<tr>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/degree60-P1-batch (2).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/degree60-R-P1-batch (3).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+</tr>
+<tr>
+<td> DMM </td>
+<td> GaLiM </td>
+</tr>
+</table>
+
 ## Place at 90 degrees.
+
+<table>
+<tr>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/degree90-P1-batch (5).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/degree90-R-P1-batch (3).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+</tr>
+<tr>
+<td> DMM </td>
+<td> GaLiM </td>
+</tr>
+</table>
 
 
 ### Markdown
