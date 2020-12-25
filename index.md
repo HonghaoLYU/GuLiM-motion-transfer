@@ -1,11 +1,43 @@
+# Overview
 ## Welcome to our Project: GaLiM motion transfer
 <p>
-<img src="http://honghaolyu.github.io/GaLiM-motion-transfer/assets/images/teleop-dualarm.gif" alt="demo1"/>
-<!-- <img src="https://fsie_robotics/GaLiM-motion-transfer/assets/images/teleop-grasp.gif" alt="demo1"/> -->
+<img src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/images/teleop-dualarm.gif" alt="demo of dualarm teleop"/>
+<img src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/images/teleop-grasp.gif" alt="demo of dualarm grasp"/>
 </p>
 You can use the [editor on GitHub](https://github.com/HonghaoLYU/MHGM-motion-transfer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+# Setup
+<p>
+<img src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/images/setup.png" alt="setup of the grasp task"/>
+</p>
+
+# Task1:
+### Grab a block and place it in the specific region.
+
+## From region A to region B.
+
+<table>
+<tr>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/AB-R-P1-batch (2).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+</tr>
+</table>
+
+## From region A to region C.
+
+## From region A to region D.
+
+
+# Task2:
+### Grab a block and place it at the specific angle.
+
+## Place at 30 degrees.
+
+## Place at 60 degrees.
+
+## Place at 90 degrees.
+
 
 ### Markdown
 
