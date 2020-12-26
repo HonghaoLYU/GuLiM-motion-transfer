@@ -20,12 +20,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <table>
 <tr>
-<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/ABP1T1_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
-<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/AB-R-P1-batch (2).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td align='center'，valign="middle"> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/zip/ABP1T1_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td align='center'，valign="middle"> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/zip/AB-R-P1 (2)_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
 </tr>
 <tr>
-<td> DMM </td>
-<td> GaLiM </td>
+<td align='center'> DMM </td>
+<td align='center'> GaLiM </td>
 </tr>
 </table>
 
@@ -33,8 +33,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <table>
 <tr>
-<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/AC-P1-batch (2).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
-<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/AC-R-P1-batch (1).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/zip/AC-P1 (2)_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/zip/AC-R-P1 (1)_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
 </tr>
 <tr>
 <td> DMM </td>
@@ -46,8 +46,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <table>
 <tr>
-<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/ADP1T2_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
-<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/ADRP1T4_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/zip/ADP1T2_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/zip/ADRP1T4_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
 </tr>
 <tr>
 <td> DMM </td>
@@ -62,8 +62,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <table>
 <tr>
-<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/degree30-P1-batch (2).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
-<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/degree30-R-P1-batch (2).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/zip/degree30-P1 (2)_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/zip/degree30-R-P1 (2)_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
 </tr>
 <tr>
 <td> DMM </td>
@@ -75,8 +75,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <table>
 <tr>
-<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/degree60-P1-batch (2).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
-<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/degree60-R-P1-batch (3).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/zip/degree60-P1 (2)_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/zip/degree60-R-P1 (3)_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
 </tr>
 <tr>
 <td> DMM </td>
@@ -88,8 +88,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <table>
 <tr>
-<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/degree90-P1-batch (5).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
-<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/degree90-R-P1-batch (3).mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/zip/degree90-P1 (5)_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/zip/degree90-R-P1-batch (3)_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
 </tr>
 <tr>
 <td> DMM </td>
