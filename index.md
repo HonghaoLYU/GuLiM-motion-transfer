@@ -20,8 +20,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <table>
 <tr>
-<td align='center'，valign="middle"> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/zip/ABP1T1_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
-<td align='center'，valign="middle"> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/zip/AB-R-P1 (2)_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td align='center' valign="middle"> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/zip/ABP1T1_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
+<td align='center' valign="middle"> <video src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/media/zip/AB-R-P1 (2)_batch.mp4" type="video/mp4" controls="controls" width="500" height="300"> 您的浏览器不支持播放该视频！</video> </td>
 </tr>
 <tr>
 <td align='center'> DMM </td>
