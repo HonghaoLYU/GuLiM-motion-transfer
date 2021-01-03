@@ -11,7 +11,7 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 we present an intuitive teleoperation approach for human-robot motion transfer. Mixed mapping of hand gesture and limb motion method (GaLiM) with incremental pose mapping strategy is introduced to flexibly map the workspace between human and robot. This GaLiM method cost-effectively enables a non-expert to transfer a rough manipulation skill to an assistive robot for challenging tasks.
 
 #### Contact: 
-[Honghao Lv](fsie-zju.com/team) (lvhonghao [at] zju.edu.cn)
+[Honghao Lv](http://fsie-zju.com/team/) (lvhonghao [at] zju.edu.cn)
 
 # Setup
 <p align='center'>
