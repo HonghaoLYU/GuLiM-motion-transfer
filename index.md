@@ -1,3 +1,5 @@
+Tips: You can get a better experience of this site in [Google chrome](https://www.google.com/chrome) browser.
+
 # Overview
 ## Welcome to our Project: GaLiM motion transfer
 <p align='center'>
@@ -5,9 +7,11 @@
 <img src="https://honghaolyu.github.io/GaLiM-motion-transfer/assets/images/teleop-grasp.gif" width="400" height="240" alt="demo of dualarm grasp"/>
 </p>
 
-You can use the [editor on GitHub](https://github.com/HonghaoLYU/MHGM-motion-transfer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### Abstract:
+we present an intuitive teleoperation approach for human-robot motion transfer. Mixed mapping of hand gesture and limb motion method (GaLiM) with incremental pose mapping strategy is introduced to flexibly map the workspace between human and robot. This GaLiM method cost-effectively enables a non-expert to transfer a rough manipulation skill to an assistive robot for challenging tasks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Contact: 
+[Honghao Lv](fsie-zju.com/team) (lvhonghao [at] zju.edu.cn)
 
 # Setup
 <p align='center'>
@@ -99,7 +103,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 </table>
 
 
-### Markdown
+<!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -121,4 +125,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
