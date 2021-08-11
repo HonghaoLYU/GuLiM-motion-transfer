@@ -19,7 +19,7 @@ we present an intuitive teleoperation approach for human-robot motion transfer. 
 
 # Setup
 <p align='center'>
-<img src="https://honghaolyu.github.io/GuLiM-motion-transfer/assets/images/setup.png" width="800" height="600" alt="setup of the grasp task"/>
+<img src="https://honghaolyu.github.io/GuLiM-motion-transfer/assets/images/setup.png" width="1000" height="600" alt="setup of the grasp task"/>
 </p>
 
 # Task1:
