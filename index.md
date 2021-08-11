@@ -11,7 +11,7 @@ Tips: You can get a better experience of this site in [Google chrome](https://ww
 we present an intuitive teleoperation approach for human-robot motion transfer. Hybrid mapping of hand gesture and limb motion method (GuLiM) with incremental pose mapping strategy is introduced to flexibly map the workspace between human and robot. This GuLiM method cost-effectively enables a non-expert to transfer a rough manipulation skill to an assistive robot for challenging tasks.
 
 <p align='center'>
-<img src="https://honghaolyu.github.io/GuLiM-motion-transfer/assets/images/process.jpg" width="800" height="600" alt="GuLiM process"/>
+<img src="https://honghaolyu.github.io/GuLiM-motion-transfer/assets/images/process.jpg" width="1000" height="600" alt="GuLiM process"/>
 </p>
 
 #### Contact: 
@@ -19,7 +19,7 @@ we present an intuitive teleoperation approach for human-robot motion transfer. 
 
 # Setup
 <p align='center'>
-<img src="https://honghaolyu.github.io/GuLiM-motion-transfer/assets/images/setup.png" width="1500" height="600" alt="setup of the grasp task"/>
+<img src="https://honghaolyu.github.io/GuLiM-motion-transfer/assets/images/setup.png" width="800" height="600" alt="setup of the grasp task"/>
 </p>
 
 # Task1:
